@@ -33,3 +33,8 @@ function printCar(car: Car) {
 
 const res1 = printCar({ brand: "BMW", make: "M3", year: 2019 });
 console.log(res1);
+
+const user = {
+  name: "Daniel",
+  age: 26,
+};
