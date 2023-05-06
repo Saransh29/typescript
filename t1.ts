@@ -37,5 +37,5 @@ console.log(res1);
 const user = {
   name: "Daniel",
   age: 26,
-  sex: "male",
+  sex: "female",
 };
