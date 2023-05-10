@@ -6,7 +6,7 @@ interface IsPerson {
   speak(a: string): void;
   spend(a: number): number;
 }
-
+//test
 const me: IsPerson = {
   name: "shaun",
   age: 30,
